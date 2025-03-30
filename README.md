@@ -28,3 +28,12 @@
 ## 📫 Contacto
 
 - Email: [estradabarrreraleonelarnulfo@gmail.com](mailto:estradabarrreraleonelarnulfo@gmail.com)
+- <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Leonel Estrada)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide=html,css)](https://github.com/Leonel Estrada)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)](https://github.com/Leonel Estrada)
+  
+</div>
